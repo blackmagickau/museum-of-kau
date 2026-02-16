@@ -73,7 +73,7 @@ const Layout: React.FC<{ children: React.ReactNode }> = ({ children }) => {
 
         {/* Mobile Menu */}
         {mobileMenuOpen && (
-           <div className="fixed inset-0 bg-background-light dark:bg-background-dark z-40 flex flex-col items-center justify-center space-y-8 animate-fade-in">
+           <div className="fixed inset-0 bg-background-light dark:bg-background-dark z-50 flex flex-col items-center justify-center space-y-8 animate-fade-in">
              <Link onClick={() => setMobileMenuOpen(false)} to="/" className="text-2xl font-display text-slate-900 dark:text-slate-200">Lobby</Link>
              <Link onClick={() => setMobileMenuOpen(false)} to="/galleries" className="text-2xl font-display text-slate-900 dark:text-slate-200">Galleries</Link>
              <Link onClick={() => setMobileMenuOpen(false)} to="/curator" className="text-2xl font-display text-slate-900 dark:text-slate-200">Curator</Link>
