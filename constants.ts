@@ -35,7 +35,7 @@ export const EXPERIENCES: Experience[] = [
       "Guided 100+ customers through hands-on AI workshops."
     ],
     tech: ["CRM", "CDP", "GenAI", "Multi-cloud Strategy"],
-    imageUrl: "https://images.unsplash.com/photo-1599658880436-c61792e70672?q=80&w=1600",
+    imageUrl: "https://www.clarkconstruction.com/sites/default/files/styles/gallery_image/public/2023-03/Salesforce-A-002-2-Edit_jpg.jpg?itok=fgFVaKeV",
     imageAlt: "Salesforce Tower in San Francisco representing cloud dominance"
   },
   {
@@ -55,8 +55,8 @@ export const EXPERIENCES: Experience[] = [
       "Authored internal deployment playbook for LLM deployment on 100GB vRAM Linux workbench."
     ],
     tech: ["Vector Search", "LLM", "Linux", "On-prem Infrastructure", "SharePoint"],
-    imageUrl: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=1600",
-    imageAlt: "Abstract data visualization representing cognitive search and AI"
+    imageUrl: "https://squirro.com/hs-fs/hubfs/automated-tagging-classification-enterprise-taxomomy.png?width=1280&height=720&name=automated-tagging-classification-enterprise-taxomomy.png",
+    imageAlt: "Enterprise search and chat in Squirro platform"
   },
   {
     id: "servicenow-2023",
@@ -74,8 +74,8 @@ export const EXPERIENCES: Experience[] = [
       "Reduced API latency by 2% at peak through proactive resource allocation."
     ],
     tech: ["Azure Databricks", "Azure ML", "IT Operations", "Strategic Consulting"],
-    imageUrl: "https://images.unsplash.com/photo-1497366216548-37526070297c?q=80&w=1600",
-    imageAlt: "Modern enterprise office interior symbolizing digital workflows"
+    imageUrl: "https://www.servicenow.com/content/dam/servicenow-assets/public/en-us/images/ds-screenshots/ai-control-tower.sm.jpg",
+    imageAlt: "Modern enterprise platform with digital and AI-enabled workflows"
   },
   {
     id: "agoda-2023",
@@ -91,8 +91,8 @@ export const EXPERIENCES: Experience[] = [
       "Researched on OLAP tools like Cube.js for optimising data retrieval."
     ],
     tech: ["ReactJS", "Kotlin", "TypeScript", "MockK", "Jest", "Playwright", "Cube.js"],
-    imageUrl: "https://images.unsplash.com/photo-1596422846543-75c6fc197f07?q=80&w=1600",
-    imageAlt: "Singapore skyline featuring Marina Bay Sands"
+    imageUrl: "https://blog.hotellinksolutions.com/hs-fs/hubfs/boost-your-hotel-revenue-and-optimize-profitability-with-agoda-2.png?width=1280&height=720&name=boost-your-hotel-revenue-and-optimize-profitability-with-agoda-2.png",
+    imageAlt: "One of the top online travel platforms in Asia"
   },
   {
     id: "google-2023",
@@ -110,8 +110,8 @@ export const EXPERIENCES: Experience[] = [
       "Won 'Most Business Impact' in internal AI hackathon with YouTube Shorts Product Recognition feature."
     ],
     tech: ["GCP", "Vertex AI", "PaLM2", "Terraform", "RAG", "SQL"],
-    imageUrl: "https://images.unsplash.com/photo-1522071820081-009f0129c71c?q=80&w=1600",
-    imageAlt: "Collaborative open office environment representing innovation culture"
+    imageUrl: "https://storage.googleapis.com/gweb-cloudblog-publish/images/BlogHeader_Set2_D_ShTJD99.max-2600x2600.png",
+    imageAlt: "Google Cloud AI and infrastructure solutions"
   },
   {
     id: "thunes-2022",
@@ -128,8 +128,8 @@ export const EXPERIENCES: Experience[] = [
       "Developed custom ETL pipelines for metadata ingestion into Amazon Redshift."
     ],
     tech: ["SQL", "Redash", "Grafana", "ETL", "Amazon Redshift"],
-    imageUrl: "https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1600",
-    imageAlt: "Digital network connections symbolizing global payments"
+    imageUrl: "https://www.thunes.com/wp-content/uploads/2025/04/Screenshot-2025-04-14-at-10.34.10.png",
+    imageAlt: "Data analytics in a fintech company with global payment network"
   },
   {
     id: "socgen-2022",
@@ -144,8 +144,8 @@ export const EXPERIENCES: Experience[] = [
       "Developed web application using Flask, React.js, and PostgreSQL that was used for vendor management."
     ],
     tech: ["Python", "PowerBI", "Flask", "React.js", "PostgreSQL"],
-    imageUrl: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?q=80&w=1600",
-    imageAlt: "Glass skyscrapers in a financial district"
+    imageUrl: "https://www.ironfx.com/wp-content/uploads/2024/12/societe-generale-stock-analysis-history.jpg",
+    imageAlt: "SocGen, a leading global financial services company"
   },
   {
     id: "olympus-2022",
@@ -160,8 +160,8 @@ export const EXPERIENCES: Experience[] = [
       "Crafted architecture and proof of concept for pathology diagnostic tool that identifies certain cancer-causing tissues."
     ],
     tech: ["React", "PostgreSQL", "Django", "Healthcare IT"],
-    imageUrl: "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?q=80&w=1600",
-    imageAlt: "Biomedical research laboratory environment"
+    imageUrl: "https://www.olympus-europa.com/company/media/content/news/msd-medical-systems/211207-emea-launch-ttl-campaign/olympus-corporation_refocused-medical-business-direction_img_1200.png",
+    imageAlt: "Medical aid devices and solutions provider in APAC region"
   }
 ];
 

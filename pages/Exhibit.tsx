@@ -122,7 +122,7 @@ const Exhibit: React.FC = () => {
                           <span className="material-icons text-xl">verified</span>
                        </div>
                        <div>
-                          <h4 className="text-lg font-medium text-gray-900 dark:text-slate-200 mb-1 group-hover:text-primary transition-colors font-display">Artifact {idx + 2}</h4>
+                          <h4 className="text-lg font-medium text-gray-900 dark:text-slate-200 mb-1 group-hover:text-primary transition-colors font-display">Artifact {idx + 1}</h4>
                           <p className="text-sm text-gray-600 dark:text-gray-300 leading-relaxed border-l-2 border-transparent group-hover:border-primary/30 pl-0 group-hover:pl-4 transition-all">
                              {achievement}
                           </p>
