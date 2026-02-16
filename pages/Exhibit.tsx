@@ -105,9 +105,8 @@ const Exhibit: React.FC = () => {
                       </div>
                       <div className="mt-4 flex items-start gap-4 max-w-md ml-4">
                          <div className="w-8 h-8 rounded-full bg-primary/10 text-primary flex items-center justify-center text-xs font-bold shrink-0">01</div>
-                         <div>
-                            <h4 className="font-bold text-sm uppercase tracking-wide text-slate-900 dark:text-slate-200">Visual Documentation</h4>
-                            <p className="text-xs text-gray-500 dark:text-gray-400 mt-1 italic">{exhibit.imageAlt}</p>
+                         <div className="text-center">
+                          <p className="text-xs text-gray-500 dark:text-gray-400 mt-1 italic">{exhibit.imageAlt}</p>
                          </div>
                       </div>
                    </div>

@@ -20,7 +20,7 @@ const Galleries: React.FC = () => {
             The Galleries
           </h1>
           <p className="font-display text-xl md:text-2xl text-slate-600 dark:text-slate-300 italic font-light leading-relaxed">
-            An indexed retrospective of professional tenure, technical exploration, and strategic leadership.
+            An indexed retrospective of professional tenure.
           </p>
         </FadeInSection>
 
