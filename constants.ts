@@ -3,11 +3,11 @@ import { CuratorProfile, Education, Experience, SkillCategory } from './types';
 export const CURATOR: CuratorProfile = {
   name: "Kaushik Yadhunath",
   title: "Account Solutions Engineer",
-  tagline: "Exhibition Lead & Strategist",
+  tagline: "Solutions Engineer, AI and Cloud",
   bio: [
-    " view technical presales not merely as a transaction, but as the curation of value. Just as a museum selects pieces that converse with one another to tell a greater story, I assemble cloud solutions, AI capabilities, and business requirements into cohesive digital transformation strategies.",
-    "My career spans from deep-dive software engineering to high-level strategic consulting. From crafting SQL queries to improve memory usage by 30% to managing $1.5M+ pipelines for complex multi-cloud solutions.",
-    "Currently, I am focused on the intersection of AI and enterprise value—guiding customers through the gallery of possibilities that Generative AI offers."
+    " think of my career as a curated collection of problems that I've solved. The kind of hard problems where you can't 'just do it', you have to make tradeoffs and explain them clearly. I've worked across engineering and presales, writing the code that made systems faster (without ChatGPT) and selling the story that helps leaders commit.",
+    "Just as a museum selects pieces that converse with one another to tell a greater story, I assemble cloud solutions, AI capabilities, and business requirements into cohesive digital transformation strategies.",
+    "Currently, I am focused on the intersection of AI and data, guiding customers through the gallery of possibilities that is offered."
   ],
   location: "Singapore",
   status: "Open to conversations",
