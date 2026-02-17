@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { Analytics } from "@vercel/analytics/next"
+import { Analytics } from "@vercel/analytics/react";
 import { useLocation, Link } from 'react-router-dom';
 import { CURATOR } from '../constants';
 
